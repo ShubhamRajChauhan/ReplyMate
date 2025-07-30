@@ -21,12 +21,12 @@ ReplyMate is an AI-powered email assistant that helps you craft intelligent, con
 _Paste your email, choose a reply tone, and generate a smart response. Easily copy the generated reply using the "Copy to Clipboard" button._
 
 ### 🏠 Home Page 
-<img src="https://github.com/user-attachments/assets/d0352404-5a0d-467a-9125-16042007e21e" width="600" alt="Home Page" />
+<img src="https://github.com/user-attachments/assets/198b220e-d15a-47b0-85a4-02ddf2395d2e" width="600" alt="Home Page" />
 
 ---
 
 ### 📝 Generated Reply
-<img src="https://github.com/user-attachments/assets/8b20b8c6-8f97-4f04-ad9d-7908a47c9ecf" width="600" alt="Generated Reply" />
+<img src="https://github.com/user-attachments/assets/20fd7ca8-3dc7-401b-8e4f-284c75df04f2" width="600" alt="Generated Reply" />
 
 
 ---
