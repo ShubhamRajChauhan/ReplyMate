@@ -89,3 +89,12 @@ ReplyMate/
 ├── extension/ # Chrome extension files
 └── README.md
 ```
+
+## 📃 License
+This project is licensed under the MIT License.
+
+## 🙋‍♂️ Author
+
+**Shubham Raj Chauhan**  
+[LinkedIn](www.linkedin.com/in/shubham-raj-chauhan-5a4aa5280)  
+📧 Email: shubhamrajchauhan07@gmail.com
